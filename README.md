@@ -9,7 +9,7 @@ This Python Gaming Programs repository represents a synergistic convergence of p
   This is a simple python code which requires no prior installation except an Python IDE. Quiz instructions are provided in the code itself.
   <h3>Instructions</h3>
   <ul>
-    <li>Participants will be presented with a set of multiple-choice questions.</li>
+    <li>Participants will be presented with a set of MCQ.</li>
     <li>Respond to each question by entering the corresponding option number.</li>
     <li>Each correct answer earns 4 points, while incorrect answers result in a deduction of 1 point.</li>
     <li>Type 'leave' to skip a question.</li>
